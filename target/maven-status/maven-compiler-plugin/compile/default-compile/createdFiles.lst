@@ -1,0 +1,5 @@
+com\l3gl\productapi\controller\ProductController.class
+com\l3gl\productapi\entity\Product.class
+com\l3gl\productapi\service\ProductService.class
+com\l3gl\productapi\repository\ProductRepository.class
+com\l3gl\productapi\ProductApiApplication.class
